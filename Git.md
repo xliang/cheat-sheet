@@ -1,4 +1,4 @@
-```console
+```shell
 
 /* create a branch */
 git checkout -b [name_of_new_branch]
