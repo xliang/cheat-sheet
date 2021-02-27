@@ -1,6 +1,6 @@
 ```shell
 
-/* create a branch */
+# create a branch
 git checkout -b [name_of_new_branch]
 
 /* push the branch to github */
