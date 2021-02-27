@@ -1,4 +1,4 @@
-```
+```bash
 /* create a branch */
 
 git checkout -b [name_of_new_branch]
@@ -12,4 +12,5 @@ git branch -a
 
 -- checkout remote branch
 git checkout --track origin/daves_branch
+
 ```
