@@ -1,5 +1,10 @@
 ```shell
 
+# Check out a remote branch 
+git fetch origin
+git checkout --track origin/banch_name
+
+
 # create a branch
 git checkout -b [name_of_new_branch]
 
