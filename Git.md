@@ -1,5 +1,9 @@
 ```shell
 
+# Reset the changes
+git reset --hard 
+
+
 # Check out a remote branch 
 git fetch origin
 git checkout --track origin/banch_name
