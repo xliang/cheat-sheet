@@ -12,7 +12,16 @@
 | git push origin --delete v2.6.2 | Delete remote branch |
 
 
-# Changes
+
+## Tag
+
+| Command | Description |
+| --- | --- |
+| `git checkout -b <New Branch Name> <TAG Name>` | Create branch from tag |
+| `git tag -a tag_name -m "message"` | Create  a tag | 
+| `git push --follow-tags` | Push a tag | 
+
+## Changes
 | Command | Description |
 | --- | --- |
 | git reset --hard | Reset the changes |
