@@ -21,6 +21,9 @@
 | `git checkout -b <New Branch Name> <TAG Name>` | Create branch from tag |
 | `git tag -a tag_name -m "message"` | Create  a tag | 
 | `git push --follow-tags` | Push a tag | 
+| `git tag -d <tag_name>`| Delete a local tag |
+| `git push --delete origin <tagname>`| Delete a remote tag |
+
 
 ## Changes
 | Command | Description |
