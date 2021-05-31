@@ -3,6 +3,7 @@
 | Command | Description |
 | --- | --- |
 | `git branch -a` | List All branches |
+| `git branch --all` | Fetch all remote branches |
 | `git fetch origin` |  | 
 | `git checkout --track origin/branch_name` | Check out a remote branch | 
 | `git checkout -b [name_of_new_branch]` | Create a branch |
