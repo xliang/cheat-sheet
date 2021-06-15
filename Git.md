@@ -18,6 +18,7 @@
 
 | Command | Description |
 | --- | --- |
+| `git tag` | List all of the tags in the branch |
 | `git checkout -b <New Branch Name> <TAG Name>` | Create branch from tag |
 | `git tag -a tag_name -m "message"` | Create  a tag | 
 | `git push --follow-tags` | Push a tag | 
