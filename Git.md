@@ -30,6 +30,7 @@
 | Command | Description |
 | --- | --- |
 | `git reset --hard` | Reset the changes |
+| `git reset HEAD~1` | unstaged changes after reset |
 | `git stash` | Temporarily park (stash) your uncommitted changes |
 | `git stash pop` | Re-apply the changes parked using the stash command |
 | `git pull` | Retrieve the changes |
