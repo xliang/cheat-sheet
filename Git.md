@@ -37,4 +37,9 @@
 | `git add .` | Add all of the files | 
 | `git push` | PUsh your changes to remote repository|
 
+## Config 
+
+| Command | Description |
+| --- | --- |
+| `git config --global credential.helper wincred` | Global Configuration |
 
