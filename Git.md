@@ -43,4 +43,5 @@
 | Command | Description |
 | --- | --- |
 | `git config --global credential.helper wincred` | Global Configuration |
+| `git config --global credential.helper store` | Global Configuration |
 
