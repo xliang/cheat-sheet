@@ -9,10 +9,12 @@
 | `git checkout -b [name_of_new_branch]` | Create a branch |
 | `git push origin [name_of_new_branch]` | Push the branch to github |  
 | `git branch -D origin/v2.6.1` | Delete a local branch | 
-| `git branch -D <branch_name>` | Delete a local branch | 
+| `git branch -D <branch_name>` | Delete a local branch |
+| `git push --delete origin existing_branch` | Remove a remote branch |
 | `git push origin --delete v2.6.2` | Delete remote branch |
 | `git merge existing_branch_name` | Combine the specfied branch into the main branch |
 | `git merge --no-ff existing_branch_name` | Create a merge commit |
+| `git merge --abort` | abort a confliciting merge |
 
 
 
@@ -49,12 +51,6 @@
 | `git diff` | View changes before commit  |
 | `git diff --staged` | View the staged changes  |
 | `git diff filename.js` | View the changes of a specific file  |
-
-
-
-## Log
-| Command | Description |
-| --- | --- |
 
 
 ## Config 
