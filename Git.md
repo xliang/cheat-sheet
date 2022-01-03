@@ -62,4 +62,6 @@
 | `git config --global credential.helper cahce` | Cache login credentails |
 | `git config --global credential.helper wincred` | Global Configuration |
 | `git config --global credential.helper store` | Global Configuration |
+| `git config --get remote.origin.url` | Show Remote URL |
+
 
