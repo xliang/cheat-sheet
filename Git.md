@@ -29,7 +29,7 @@
 | `git tag -a tag_name -m "message"` | Create  a tag | 
 | `git push --follow-tags` | Push a tag | 
 | `git tag -d <tag_name>`| Delete a local tag |
-| `git tag push -delete origin <tag_name>`| Delete a remote tag |
+| `git tag push --delete origin <tag_name>`| Delete a remote tag |
 | `git push --delete origin <tagname>`| Delete a remote tag |
 
 
