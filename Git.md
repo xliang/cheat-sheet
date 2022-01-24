@@ -5,6 +5,7 @@
 | `git branch -a` | List All branches |
 | `git branch --all` | Fetch all remote branches |
 | `git fetch origin` |  | 
+| `git remote update origin --prune` | Refresh the remote branches | 
 | `git checkout --track origin/branch_name` | Check out a remote branch | 
 | `git checkout -b [name_of_new_branch]` | Create a branch |
 | `git push origin [name_of_new_branch]` | Push the branch to github |  
