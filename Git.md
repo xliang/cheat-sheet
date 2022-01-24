@@ -3,7 +3,7 @@
 | Command | Description |
 | --- | --- |
 | `git branch -a` | List All branches |
-| `git branch --all` | Fetch all remote branches |
+| `git branch --all` | Fetch all remote branches from local |
 | `git fetch origin` |  | 
 | `git remote update origin --prune` | Refresh the remote branches | 
 | `git checkout --track origin/branch_name` | Check out a remote branch | 
