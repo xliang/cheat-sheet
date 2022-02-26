@@ -2,6 +2,11 @@
 
 | Command | Description |
 | --- | --- |
-| `Cmd + C` | Copy |
-| `Cmd + X` | Cut to clipboard |
-| `Cmd + V` | Paste from clipboard |
+| `⌘ + C` | Copy |
+| `⌘ + X` | Cut to clipboard |
+| `⌘ + V` | Paste from clipboard |
+
+## Chrome 
+| Command | Description |
+|--- | --- |
+| `⌘ + n` | Open New Window | 
