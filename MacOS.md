@@ -10,3 +10,4 @@
 | Command | Description |
 |--- | --- |
 | `⌘ + n` | Open New Window | 
+| `⌘ + l` | Go to browser bar | 
