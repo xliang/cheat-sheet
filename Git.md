@@ -59,7 +59,7 @@
 | --- | --- |
 | `git config --global user.name` | Set up user name |
 | `git config --global user.email` | Set up email |
-| `git config --global credential.helper cahce` | Cache login credentails |
+| `git config --global credential.helper cache` | Cache login credentails |
 | `git config --global credential.helper wincred` | Global Configuration |
 | `git config --global credential.helper store` | Global Configuration |
 | `git config --get remote.origin.url` | Show Remote URL |
