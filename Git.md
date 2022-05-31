@@ -37,6 +37,7 @@
 | Command | Description |
 | --- | --- |
 | `git reset --hard` | Reset the changes |
+| `git reset --hard origin/master` | Reset to the remote branch | 
 | `git reset HEAD~1` | unstaged changes after reset |
 | `git revert 1af17e` | Rollback a particular commit  |
 | `git stash` | Temporarily park (stash) your uncommitted changes |
