@@ -5,6 +5,7 @@
 | `⌘ + C` | Copy |
 | `⌘ + X` | Cut to clipboard |
 | `⌘ + V` | Paste from clipboard |
+| `⌘ + C` -> `⌘ + option + V` | Copy and Paste |
 
 ## Chrome 
 | Command | Description |
