@@ -4,6 +4,7 @@
 | --- | --- |
 | `git branch -a` | List All branches |
 | `git branch --all` | Fetch all remote branches from local |
+|`git branch --show-current`|Show current branch | 
 | `git fetch origin` |  | 
 | `git remote update origin --prune` | Refresh the remote branches | 
 | `git checkout --track origin/branch_name` | Check out a remote branch | 
